@@ -1,0 +1,31 @@
+categories:
+- conversations
+conversations:
+- - Hi
+  - Hi
+  - Hi there...!
+  - Hi there...!, How can I help you...?
+- - hi
+  - Hi
+  - Hi there...!
+  - Hi there...!, How can I help you...?
+- - Hello
+  - Hi
+  - Hi there...!
+  - Hi there...!, How can I help you...?
+- - hello
+  - Hi
+  - Hi there...!
+  - Hi there...!, How can I help you...?
+- - What is your name?
+  - I am CRON...!
+  - My name is CRON...!
+- - What's ypur name?
+  - I am CRON...!
+  - My name is CRON...!
+- - How are you?
+  - I am Fine.
+  - I am fine, How about you ?
+- - I am fine Thank You
+  - hmm.
+  - ooh, thats great...!

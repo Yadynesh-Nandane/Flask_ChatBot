@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {{ fontawesome_html() }}
+    
+    <title>Document</title>
+
+    <!-- <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css" /> -->
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" > -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+    <section class="chatbot">
+        <div id="chatwin" class="chatwindow">
+            <p class="chat bot"><span>Hi I am chatbot created by Yadynesh and Team</span></p>
+        </div>
+        <div id="userinp">
+            <input type="text" class="chatinp" id="userinput" placeholder="Write a message...!/Ask a query...?" />
+            <button type="submit" class="send" id="inputbtn" value=""><i class="fas fa-paper-plane"></i></button>
+        </div>
+    </section>
+    <!-- <script src="{{ url_for('static', filename='app.js') }}"></script> -->
+    <!-- <script src="main.js"></script> -->
+</body>
+</html>
